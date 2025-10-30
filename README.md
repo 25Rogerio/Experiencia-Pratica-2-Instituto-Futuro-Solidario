@@ -3,8 +3,6 @@ cat > README.md << 'EOF'
 
 Um site institucional responsivo e acessível para uma organização sem fins lucrativos, desenvolvido com HTML5, CSS3 (com Design System) e JavaScript puro.
 
-![Preview do site](https://obscure-lamp-g4w7j6jj4wjqfp4q9-8000.app.github.dev/)
-
 ## ✨ Funcionalidades
 
 - ✅ Design responsivo (mobile-first)
